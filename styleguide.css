@@ -1,0 +1,20 @@
+:root {
+  --greyscaleblack: rgba(10, 10, 10, 1);
+  --greyscalegrey: rgba(136, 136, 136, 1);
+  --greyscalemercury: rgba(221, 221, 221, 1);
+  --greyscaleaqua-haze: rgba(238, 238, 238, 1);
+  --greyscalesnow-drift: rgba(250, 251, 255, 1);
+  --greyscalewhite: rgba(255, 255, 255, 1);
+  --stateblack: rgba(51, 51, 51, 1);
+  --statered: rgba(244, 88, 88, 1);
+  --stateblue: rgba(67, 139, 237, 1);
+  --stateyellow: rgba(254, 191, 16, 1);
+  --stategreen: rgba(161, 197, 61, 1);
+  --statepurple: rgba(113, 93, 234, 1);
+  --primarylight-blue: rgba(148, 218, 255, 1);
+  --primaryneon-green: rgba(240, 255, 66, 1);
+  --s: 0px 8px 16px -6px rgba(20, 23, 26, 0.04), -2px -2px 8px -6px rgba(20, 23, 26, 0.06);
+  --m: 5px 5px 17px 0px rgba(0, 0, 0, 0.03);
+  --l: 0px 4px 20px 0px rgba(221, 221, 221, 0.12);
+  --XL: 5px 4px 20px 0px rgba(0, 0, 0, 0.05);
+}
