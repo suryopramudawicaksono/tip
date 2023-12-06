@@ -18,13 +18,13 @@
 }
 
 .company-profile-TIP .hero {
-  position: absolute;
-  width: 100%;
-  max-width: 1440px;
-  height: 848px;
-  top: 124px;
+  /* position: absolute; */
+  /* width: 100%; */
+  /* max-width: 1440px; */
+  height: auto;
+  /* top: 124px;
   left: 0;
-  object-fit: cover;
+  object-fit: cover; */
 }
 
 .company-profile-TIP .group {
@@ -1266,7 +1266,7 @@
 
 .company-profile-TIP .our-project {
   position: absolute;
-  width: 100%;
+  width: 144%;
   max-width: 1440px;
   height: 1174px;
   top: 0;
@@ -1889,6 +1889,7 @@
 .company-profile-TIP .overlap-8 {
   position: relative;
   height: 585px;
+  width: 144%;
   background-color: var(--stateblack);
 }
 
@@ -2986,7 +2987,7 @@
   width: 60px;
   height: 60px;
   top: 0;
-  left: 0;
+  left: 0; 
   object-fit: cover;
 }
 
